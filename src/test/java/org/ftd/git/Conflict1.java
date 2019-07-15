@@ -10,11 +10,7 @@ public class Conflict1 {
             System.out.println(i);
             sum += i;
         }
-<<<<<<< HEAD
         System.out.println("Sum2: " + sum);
-=======
-        System.out.println("Sum1: " + sum);
->>>>>>> branch 'master' of https://github.com/NallaSandeep/java-practice
     }
 
     public static void main(String[] args) {
