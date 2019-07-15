@@ -10,7 +10,7 @@ public class Conflict1 {
             System.out.println(i);
             sum += i;
         }
-        System.out.println("Sum: " + sum);
+        System.out.println("Sum1: " + sum);
     }
 
     public static void main(String[] args) {
