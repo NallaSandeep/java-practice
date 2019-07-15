@@ -2,11 +2,11 @@ package org.ftd.git;
 
 public class Conflict1 {
     
-    private int[] array = {1, 23, 89, 12};
+    private int[] array = {1, 23, 89, 12, 34};
     
     public void method1() {
-        for (int i = 0; i < array.length; i++) {
-            System.out.println(array[i]);
+        for (int i: array) {
+            System.out.println(i);
         }
     }
 
