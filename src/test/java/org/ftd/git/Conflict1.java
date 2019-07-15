@@ -11,6 +11,7 @@ public class Conflict1 {
             sum += i;
         }
         System.out.println("Sum2: " + sum);
+        System.out.println("Over");
     }
 
     public static void main(String[] args) {
